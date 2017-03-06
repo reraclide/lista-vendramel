@@ -1,0 +1,2 @@
+Ambas as gen/spec modeladas não violam o princípio de Liskov, pois as especificações podem ser substituidas pela generalização sem que seus atributos, métodos e relacionamentos percam o sentido.
+
